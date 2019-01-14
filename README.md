@@ -1,5 +1,5 @@
 # zamato-api
-DOT Text application
+DOT Test application
 
 ## How to install:
 --
