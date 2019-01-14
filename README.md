@@ -6,7 +6,7 @@ DOT Text application
 use node js for instalation
 download entire file / zip
 
-### installing dependencies:
+### Installing dependencies:
 --
 change directory to the project directory
 and then run
@@ -14,8 +14,8 @@ and then run
 npm install
 ```
 
-## running the project
-### start development server
+## Running the project
+### Start development server
 ```bash
 npm run serve
 ```
